@@ -9,6 +9,7 @@
 ## Author: Axemo
 ## Version: @project-version@
 ## IconTexture: Interface\Icons\inv_misc_note_06
+## X-Curse-Project-ID: 378847
 ## SavedVariablesPerCharacter: NeverForget_DB
 
 LibStub/LibStub.lua
