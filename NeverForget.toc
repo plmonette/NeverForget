@@ -7,7 +7,7 @@
 ## Title: NeverForget
 ## Notes: "Create an item checklist."
 ## Author: Axemo
-## Version: 4.9
+## Version: @project-version@
 ## IconTexture: Interface\Icons\inv_misc_note_06
 ## SavedVariablesPerCharacter: NeverForget_DB
 
