@@ -1,0 +1,26 @@
+## Interface: 11509, 20506, 30403, 50504
+## Interface-Vanilla: 11509
+## Interface-TBC: 20506
+## Interface-Wrath: 30403
+## Interface-MoP: 50504
+## Interface-Mists: 50504
+## Title: NeverForget
+## Notes: "Create an item checklist."
+## Author: Axemo
+## Version: 4.9
+## IconTexture: Interface\Icons\inv_misc_note_06
+## SavedVariablesPerCharacter: NeverForget_DB
+
+LibStub/LibStub.lua
+CallbackHandler/CallbackHandler-1.0.lua
+LibDataBroker/LibDataBroker-1.1.lua
+LibDBIcon/LibDBIcon-1.0.lua
+
+Util.lua
+ChecklistAPI.lua
+OptionsPanel.lua
+FrameUtil.lua
+EditModeFrame.lua
+Import.lua
+ChecklistFrame.lua
+main.lua
